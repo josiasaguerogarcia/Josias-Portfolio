@@ -49,6 +49,6 @@ El propósito fue **predecir el sentimiento** (positivo, negativo o neutral) de 
 ## 📎 Recursos del proyecto
 
 - 📄 [Ver presentación del proyecto](./Informe%20Proyecto%20Final%20DS3.pptx)
-- 📊 [Ver código y dataset](./Proyecto%20Final%20DS3%20-%20Tweets)
+- 📊 [Ver código y dataset](./Proyecto%20Final%20DS3%20-%20Tweets.ipynb)
 
 ---
